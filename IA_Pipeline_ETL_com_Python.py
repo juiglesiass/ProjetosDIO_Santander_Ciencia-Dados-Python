@@ -41,7 +41,7 @@ def generate_ai_news(user):
     response = client.responses.create(
         model="gpt-4.1-mini",
         #input=f"Crie uma mensagem para {user['name']} sobre a importância dos investimentos (máximo de 100 caracteres)."
-        input=f"Crie uma mensagem para {user['name']} sobre a importância das bananas (máximo de 100 caracteres)."
+        input=f"Crie uma mensagem para {user['name']} sobre a importância de investir dinheiro (máximo de 100 caracteres)."
     )
     return response.output_text
 
