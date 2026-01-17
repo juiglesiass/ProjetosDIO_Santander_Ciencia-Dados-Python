@@ -10,13 +10,13 @@ Responsável: Julia França Iglesias
 
 ## Introdução
 
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa Abstergo Industries, realizado por Julia França Iglesias. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Julia França Iglesias. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ---
 
 ## Descrição do Projeto
 
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serÃ£o descritas as etapas do projeto:
 
 ---
 
