@@ -2,7 +2,7 @@
 
 Data: 17/01/2026
 
-Empresa: Farmácia BemViver
+Empresa: Abstergo Industries
 
 Responsável: Julia França Iglesias
 
@@ -10,17 +10,13 @@ Responsável: Julia França Iglesias
 
 ## Introdução
 
-Este relatório apresenta uma proposta de **migração parcial para a nuvem AWS (Amazon Web Services)** com foco na **redução imediata de custos operacionais de TI** da Farmácia BemViver.
-
-O projeto tem como objetivo principal substituir infraestruturas locais (on‑premises) por serviços em nuvem mais eficientes, escaláveis e com modelo de pagamento sob demanda, reduzindo gastos com servidores físicos, manutenção, energia elétrica, licenças e suporte técnico.
-
-Foram selecionados **3 serviços AWS estratégicos**, priorizando impacto financeiro rápido, baixo risco de implementação e fácil adoção.
+Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa Abstergo Industries, realizado por Julia França Iglesias. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
 
 ---
 
 ## Descrição do Projeto
 
-O projeto foi dividido em **3 etapas**, cada uma correspondendo à implementação de um serviço AWS específico.
+O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
 
 ---
 
@@ -30,7 +26,7 @@ O projeto foi dividido em **3 etapas**, cada uma correspondendo à implementaç�
 * **Foco:** Redução de custos com servidores físicos
 * **Caso de uso:**
 
-Atualmente, a farmácia mantém servidores locais para sistemas internos (estoque, vendas, financeiro), que geram custos fixos elevados, independentemente do uso.
+Atualmente, a empresa mantém servidores locais para sistemas internos (estoque, vendas, financeiro), que geram custos fixos elevados, independentemente do uso.
 
 Com a migração para **Amazon EC2**, os servidores passam a ser virtuais, hospedados na nuvem, com as seguintes vantagens:
 
@@ -51,7 +47,7 @@ Com a migração para **Amazon EC2**, os servidores passam a ser virtuais, hospe
 * **Foco:** Redução de custos com armazenamento e backup
 * **Caso de uso:**
 
-A farmácia mantém dados como:
+A empresa mantém dados como:
 
 * Relatórios fiscais
 * Documentos contábeis
@@ -78,7 +74,7 @@ Além disso, políticas de armazenamento permitem mover dados antigos para camad
 * **Foco:** Redução de custos e simplificação da gestão de banco de dados
 * **Caso de uso:**
 
-Atualmente, a farmácia mantém bancos de dados em servidores locais, o que exige:
+Atualmente, a empresa mantém bancos de dados em servidores locais, o que exige:
 
 * Manutenção constante
 * Atualizações manuais
@@ -103,7 +99,7 @@ Isso reduz significativamente a necessidade de servidores dedicados e de interve
 
 ## Conclusão
 
-A migração parcial para a AWS permite à **Farmácia BemViver** reduzir custos de forma imediata e sustentável, ao mesmo tempo em que moderniza sua infraestrutura de TI.
+A migração parcial para a AWS permite à Abstergo Industries reduzir custos de forma imediata e sustentável, ao mesmo tempo em que moderniza sua infraestrutura de TI.
 
 Os principais benefícios esperados são:
 
