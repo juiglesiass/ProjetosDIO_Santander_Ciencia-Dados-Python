@@ -132,7 +132,3 @@ O projeto demonstra uma abordagem organizada para análise de dados em Excel, se
 * Visualização
 
 Essa estrutura facilita a evolução do dashboard, a validação dos resultados e a adaptação para outras ferramentas de BI, como Power BI ou Tableau.
-
----
-
-**Relatório elaborado com base no arquivo fornecido.**
