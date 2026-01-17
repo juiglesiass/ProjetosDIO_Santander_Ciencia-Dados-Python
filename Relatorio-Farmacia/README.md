@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 17/01/2026
+
 Empresa: Farmácia BemViver
+
 Responsável: Julia França Iglesias
 
 ---
